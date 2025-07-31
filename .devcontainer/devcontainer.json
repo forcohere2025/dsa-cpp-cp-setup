@@ -21,7 +21,11 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		"codespaces": {
-			"openFiles": []
+			"openFiles": [
+				"main.cpp",
+				"input.txt",
+				"output.txt"
+			]
 		},
 		// Visual Studio Code extensions (plugins) to be installed.
 		"vscode": {
