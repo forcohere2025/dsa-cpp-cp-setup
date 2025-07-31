@@ -16,7 +16,9 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "gcc -v",
+	"postCreateCommand": "cp .vscode/keybindings.json ~/.vscode-server/data/Machine/keybindings.json",
+
+
 
 	// Configure tool-specific properties.
 	"customizations": {
