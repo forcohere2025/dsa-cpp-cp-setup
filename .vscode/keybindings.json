@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+alt+l",
+    "command": "editorLayout.open",
+    "args": { "name": "cpp-layout" }
+  }
+]

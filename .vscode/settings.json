@@ -1,5 +1,46 @@
 {
     "files.associations": {
         "ostream": "cpp"
-    }
+    },
+    "saveEditorLayout.list": [
+        {
+            "name": "dsa-cpp-cp",
+            "documents": [
+                {
+                    "fsPath": "/workspaces/dsa-cpp-cp-setup/main.cpp",
+                    "column": 1,
+                    "pinned": false
+                },
+                {
+                    "fsPath": "/workspaces/dsa-cpp-cp-setup/input.txt",
+                    "column": 2,
+                    "pinned": false
+                },
+                {
+                    "fsPath": "/workspaces/dsa-cpp-cp-setup/output.txt",
+                    "column": 3,
+                    "pinned": false
+                }
+            ],
+            "layout": {
+                "orientation": 0,
+                "groups": [
+                    {
+                        "size": 744
+                    },
+                    {
+                        "size": 744,
+                        "groups": [
+                            {
+                                "size": 267
+                            },
+                            {
+                                "size": 267
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
 }
