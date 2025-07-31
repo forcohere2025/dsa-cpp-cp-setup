@@ -7,17 +7,17 @@
             "name": "dsa-cpp-cp",
             "documents": [
                 {
-                    "fsPath": "/workspaces/dsa-cpp-cp-setup/main.cpp",
+                    "fsPath": "dsa-cpp-cp-setup/main.cpp",
                     "column": 1,
                     "pinned": false
                 },
                 {
-                    "fsPath": "/workspaces/dsa-cpp-cp-setup/input.txt",
+                    "fsPath": "dsa-cpp-cp-setup/input.txt",
                     "column": 2,
                     "pinned": false
                 },
                 {
-                    "fsPath": "/workspaces/dsa-cpp-cp-setup/output.txt",
+                    "fsPath": "dsa-cpp-cp-setup/output.txt",
                     "column": 3,
                     "pinned": false
                 }
