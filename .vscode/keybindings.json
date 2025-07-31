@@ -1,7 +1,4 @@
-[
-  {
-    "key": "ctrl+alt+l",
-    "command": "editorLayout.open",
-    "args": { "name": "dsa-cpp-cp-setup" }
-  }
-]
+{
+  "key": "ctrl+alt+l",
+  "command": "editorLayout.open"
+}
