@@ -1,2 +1,2 @@
 Hello, World!
-Enter your name: Hello, Vijay!
+Enter your name: Hello, John!
