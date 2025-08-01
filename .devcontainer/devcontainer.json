@@ -31,7 +31,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools",
-				"ms-vscode.cpptools-extension-pack"
+				"ms-vscode.cpptools-extension-pack",
+				"vijaychandar186.layout-saver"
 			]
 		}
 	}
